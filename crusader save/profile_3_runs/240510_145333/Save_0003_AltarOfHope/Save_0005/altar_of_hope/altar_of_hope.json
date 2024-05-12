@@ -1,0 +1,32 @@
+{
+  "Version": 0,
+  "altar_hope": {
+    "m_RepeatableItemTypeCounts": [],
+    "m_IsIntro": true,
+    "memory_store_inventory": {
+      "m_acceptsOverflow": false,
+      "m_EquipItemSlotType": null,
+      "m_items": [
+        {
+          "def": "memory_15",
+          "qty": 1,
+          "pQty": 0,
+          "duration_amount_remaining": 0,
+          "name": "A Summer's Day"
+        },
+        {
+          "def": "memory_08",
+          "qty": 1,
+          "pQty": 0,
+          "duration_amount_remaining": 0,
+          "name": "A Warm Fire"
+        }
+      ],
+      "m_ignoresMaxQty": true,
+      "m_NumberOfRunStatSlots": 0,
+      "m_sendsEvents": true,
+      "m_expands": true,
+      "m_CachedValidItemIds": []
+    }
+  }
+}
