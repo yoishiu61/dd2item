@@ -1,0 +1,372 @@
+{
+  "m_ProfileGuid": 3,
+  "m_Name": "CRUSADERTEST",
+  "m_ViewedIntroCinematic": true,
+  "m_ViewedOutroCinematic": false,
+  "m_ViewedActorPaths": [
+    "wanderer",
+    "dul_wanderer",
+    "hwy_wanderer"
+  ],
+  "m_ViewedWeaponKits": [],
+  "m_ViewedHeroPalettes": [],
+  "m_ProfileSeedInstances": [
+    {
+      "m_Id": "grave_robber",
+      "m_GenerationSeed": 1005886422,
+      "m_GenerationCount": 2
+    },
+    {
+      "m_Id": "highwayman",
+      "m_GenerationSeed": 780187159,
+      "m_GenerationCount": 2
+    },
+    {
+      "m_Id": "man_at_arms",
+      "m_GenerationSeed": 81890966,
+      "m_GenerationCount": 2
+    },
+    {
+      "m_Id": "plague_doctor",
+      "m_GenerationSeed": 1247720807,
+      "m_GenerationCount": 2
+    },
+    {
+      "m_Id": "duelist",
+      "m_GenerationSeed": 1433122252,
+      "m_GenerationCount": 2
+    }
+  ],
+  "m_UnlockContainer": {
+    "m_Unlocks": [
+      "trinket_general_disarming_dagger",
+      "healing_consumable_1",
+      "iron_banded_wheels",
+      "restorative_herbs",
+      "crusader_quest"
+    ],
+    "m_UnlockTrackSpentProfileValues": [
+      [
+        "stagecoach",
+        {
+          "m_Id": "stagecoach",
+          "m_Values": []
+        }
+      ],
+      [
+        "memory",
+        {
+          "m_Id": "memory",
+          "m_Values": []
+        }
+      ],
+      [
+        "resources",
+        {
+          "m_Id": "resources",
+          "m_Values": []
+        }
+      ],
+      [
+        "prestige",
+        {
+          "m_Id": "prestige",
+          "m_Values": []
+        }
+      ],
+      [
+        "man_at_arms",
+        {
+          "m_Id": "man_at_arms",
+          "m_Values": []
+        }
+      ],
+      [
+        "highwayman",
+        {
+          "m_Id": "highwayman",
+          "m_Values": []
+        }
+      ],
+      [
+        "grave_robber",
+        {
+          "m_Id": "grave_robber",
+          "m_Values": []
+        }
+      ],
+      [
+        "plague_doctor",
+        {
+          "m_Id": "plague_doctor",
+          "m_Values": []
+        }
+      ],
+      [
+        "hellion",
+        {
+          "m_Id": "hellion",
+          "m_Values": []
+        }
+      ],
+      [
+        "leper",
+        {
+          "m_Id": "leper",
+          "m_Values": []
+        }
+      ],
+      [
+        "jester",
+        {
+          "m_Id": "jester",
+          "m_Values": []
+        }
+      ],
+      [
+        "occultist",
+        {
+          "m_Id": "occultist",
+          "m_Values": []
+        }
+      ],
+      [
+        "runaway",
+        {
+          "m_Id": "runaway",
+          "m_Values": []
+        }
+      ],
+      [
+        "vestal",
+        {
+          "m_Id": "vestal",
+          "m_Values": []
+        }
+      ],
+      [
+        "flagellant",
+        {
+          "m_Id": "flagellant",
+          "m_Values": []
+        }
+      ],
+      [
+        "bounty_hunter",
+        {
+          "m_Id": "bounty_hunter",
+          "m_Values": []
+        }
+      ],
+      [
+        "pets",
+        {
+          "m_Id": "pets",
+          "m_Values": []
+        }
+      ],
+      [
+        "infernal_flame",
+        {
+          "m_Id": "infernal_flame",
+          "m_Values": []
+        }
+      ],
+      [
+        "crusader",
+        {
+          "m_Id": "crusader",
+          "m_Values": [
+            [
+              "candles",
+              53.0
+            ]
+          ]
+        }
+      ],
+      [
+        "duelist",
+        {
+          "m_Id": "duelist",
+          "m_Values": []
+        }
+      ]
+    ]
+  },
+  "m_QuestTracker": {
+    "m_QuestCompleteIds": [
+      "crusader_quest_start",
+      "crusader_stage_coach_mount_helmet_a",
+      "crusader_military_barricade_victory",
+      "crusader_inn_deliverable_unique_reliquary",
+      "crusader_stage_coach_mount_sanctified_scroll",
+      "crusader_assist_obtain_rumour_of_riches",
+      "crusader_inn_deliverable_blessed_blade",
+      "crusader_stage_coach_mount_helmet_b",
+      "crusader_warlord_victory",
+      "crusader"
+    ]
+  },
+  "m_LastStageCoachSkin": "wagon_skin_base",
+  "m_BossSelectCounts": [
+    [
+      "prologue",
+      1
+    ],
+    [
+      "brain",
+      2
+    ],
+    [
+      "lungs",
+      1
+    ],
+    [
+      "eyes",
+      1
+    ],
+    [
+      "arms",
+      1
+    ],
+    [
+      "body",
+      1
+    ]
+  ],
+  "m_BossVictoryCounts": [
+    [
+      "brain",
+      1
+    ],
+    [
+      "lungs",
+      1
+    ],
+    [
+      "eyes",
+      1
+    ],
+    [
+      "arms",
+      1
+    ],
+    [
+      "body",
+      1
+    ]
+  ],
+  "m_BossVictoryStageCoachFlameItemIds": [],
+  "m_ViewedBossVictoryStageCoachFlameItems": [],
+  "m_ToastBossVictoryStageCoachFlameItemIds": [],
+  "m_BossAcademicsHonorariumCounts": [],
+  "m_ProfileValues": {
+    "m_Id": null,
+    "m_Values": [
+      [
+        "candles",
+        0.0
+      ]
+    ]
+  },
+  "m_HopeCollected": 5,
+  "m_RunEndStreakIsVictory": false,
+  "m_RunEndStreakAmount": 0,
+  "m_TotalDistanceDriven": 37.0,
+  "m_ActorDeaths": [
+    {
+      "m_tag": "shared_lost_soul",
+      "m_profileCount": 2,
+      "m_runCount": 0
+    },
+    {
+      "m_tag": "monster",
+      "m_profileCount": 5,
+      "m_runCount": 0
+    },
+    {
+      "m_tag": "gaunt",
+      "m_profileCount": 5,
+      "m_runCount": 0
+    },
+    {
+      "m_tag": "weak",
+      "m_profileCount": 4,
+      "m_runCount": 0
+    },
+    {
+      "m_tag": "brain_blessing",
+      "m_profileCount": 5,
+      "m_runCount": 0
+    },
+    {
+      "m_tag": "lungs_blessing",
+      "m_profileCount": 5,
+      "m_runCount": 0
+    },
+    {
+      "m_tag": "eyes_blessing",
+      "m_profileCount": 5,
+      "m_runCount": 0
+    },
+    {
+      "m_tag": "arms_blessing",
+      "m_profileCount": 5,
+      "m_runCount": 0
+    },
+    {
+      "m_tag": "final_blessing",
+      "m_profileCount": 5,
+      "m_runCount": 0
+    },
+    {
+      "m_tag": "shared_lost_soul_widow",
+      "m_profileCount": 2,
+      "m_runCount": 0
+    },
+    {
+      "m_tag": "widow",
+      "m_profileCount": 2,
+      "m_runCount": 0
+    },
+    {
+      "m_tag": "shared_lost_soul_yeoman",
+      "m_profileCount": 1,
+      "m_runCount": 0
+    },
+    {
+      "m_tag": "large",
+      "m_profileCount": 1,
+      "m_runCount": 0
+    },
+    {
+      "m_tag": "drummer_ally",
+      "m_profileCount": 1,
+      "m_runCount": 0
+    },
+    {
+      "m_tag": "woodsman",
+      "m_profileCount": 1,
+      "m_runCount": 0
+    }
+  ],
+  "m_VisitedInns": [
+    "valley_intro"
+  ],
+  "m_PartyWipedRunBosses": [],
+  "m_RunVictoryEntries": [],
+  "m_UnlockedAchievements": [
+    "combat_kill_warlord_crusader",
+    "quest_complete_crusader",
+    "run_victory_act01",
+    "run_victory_act02",
+    "run_victory_act03",
+    "run_victory_act04",
+    "run_victory_act05",
+    "inn_first_time"
+  ],
+  "m_ActiveDLCs": [
+    "dlc_dul_cru"
+  ],
+  "is_current": false
+}

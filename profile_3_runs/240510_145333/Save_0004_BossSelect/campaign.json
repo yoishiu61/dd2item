@@ -1,0 +1,72 @@
+{
+  "roster": {
+    "Version": 0,
+    "m_Entries": [
+      {
+        "m_ActorClassId": "grave_robber",
+        "m_ActorGuid": 11,
+        "m_RosterStatus": "idle",
+        "m_RosterStatusDurationCounts": null,
+        "m_SourceActorGuid": 0
+      },
+      {
+        "m_ActorClassId": "highwayman",
+        "m_ActorGuid": 12,
+        "m_RosterStatus": "idle",
+        "m_RosterStatusDurationCounts": null,
+        "m_SourceActorGuid": 0
+      },
+      {
+        "m_ActorClassId": "man_at_arms",
+        "m_ActorGuid": 13,
+        "m_RosterStatus": "idle",
+        "m_RosterStatusDurationCounts": null,
+        "m_SourceActorGuid": 0
+      },
+      {
+        "m_ActorClassId": "plague_doctor",
+        "m_ActorGuid": 14,
+        "m_RosterStatus": "idle",
+        "m_RosterStatusDurationCounts": null,
+        "m_SourceActorGuid": 0
+      },
+      {
+        "m_ActorClassId": "duelist",
+        "m_ActorGuid": 15,
+        "m_RosterStatus": "idle",
+        "m_RosterStatusDurationCounts": null,
+        "m_SourceActorGuid": 0
+      }
+    ]
+  },
+  "last_run_score": {
+    "Version": 0,
+    "m_gameOverReason": "cash_out",
+    "m_endBiomeType": "ValleyIntro",
+    "m_lastStageCoachSkin": "wagon_skin_base",
+    "m_Scores": [
+      [
+        "leagues_passed",
+        25
+      ],
+      [
+        "fights_won",
+        2
+      ],
+      [
+        "start_biomes_cleared",
+        1
+      ],
+      [
+        "academics_honorarium",
+        0
+      ],
+      [
+        "inventory",
+        3
+      ]
+    ],
+    "m_ScoreBonusMultipliers": [],
+    "m_ScorePenaltyMultipliers": []
+  }
+}

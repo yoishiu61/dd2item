@@ -1,0 +1,1237 @@
+{
+  "ActorGUID11": {
+    "m_ActorGuid": 11,
+    "m_ActorSkinId": null,
+    "m_ActorWeaponKitId": null,
+    "m_ActorPaletteId": null,
+    "m_ActorDataIds": [
+      "grave_robber"
+    ],
+    "m_CurrentActorLoadoutGuid": 0,
+    "m_CompletedRunGoalIds": [],
+    "m_RunGoalDefinition": "t_visit_storyassist",
+    "m_UnlockContainer": {
+      "m_Unlocks": [],
+      "m_UnlockTrackSpentProfileValues": []
+    },
+    "m_ItemTagUseHistory": [],
+    "m_ItemUseHistory": [],
+    "m_SkillReceivedHistory": [],
+    "m_SkillUseHistory": [],
+    "m_CombatSkills": [
+      {
+        "m_SkillId": "gr_pick_to_the_face",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 1,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "gr_thrown_dagger",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 2,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "gr_flashing_daggers",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 3,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "gr_poison_dart",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 4,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "gr_artemisia",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 5,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "gr_move",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": true,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "pass_heal",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": true,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "pass_stress",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": true,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "gr_dead_of_night",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "gr_glint_in_the_dark",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "gr_lunge",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "gr_pirouette",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "gr_repartee",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "gr_shadow_fade",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      }
+    ],
+    "m_SkillCooldowns": [],
+    "m_CombatSkillReplacements": [],
+    "m_ActorCountInstances": [],
+    "m_CurrentBattleDeathblowCheckCount": 0,
+    "m_CurrentBattleTurnType": null,
+    "m_ActorName": "Audrey",
+    "m_IsInRun": true,
+    "m_IsHired": false,
+    "m_TeamPosition": -1,
+    "m_IsCaptured": false,
+    "m_IsSpawned": false,
+    "m_IsInParty": false,
+    "m_IsLiving": true,
+    "m_IsInInn": false,
+    "m_IsInBattle": false,
+    "m_FrontRank": -1,
+    "m_BattleStartTeamPosition": 0,
+    "m_BattleStartFrontRank": 0,
+    "m_RoundCount": 0,
+    "m_TurnCount": 0,
+    "m_Stress": 0.0,
+    "m_Hp": 29.0,
+    "combat_inventory": {
+      "m_acceptsOverflow": false,
+      "m_EquipItemSlotType": null,
+      "m_items": [
+        null
+      ],
+      "m_ignoresMaxQty": false,
+      "m_NumberOfRunStatSlots": 0,
+      "m_sendsEvents": true,
+      "m_expands": false,
+      "m_CachedValidItemIds": []
+    },
+    "trinket_inventory": {
+      "m_acceptsOverflow": false,
+      "m_EquipItemSlotType": null,
+      "m_items": [
+        null,
+        null
+      ],
+      "m_ignoresMaxQty": false,
+      "m_NumberOfRunStatSlots": 0,
+      "m_sendsEvents": true,
+      "m_expands": false,
+      "m_CachedValidItemIds": []
+    },
+    "memory_inventory": {
+      "m_acceptsOverflow": false,
+      "m_EquipItemSlotType": null,
+      "m_items": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "m_ignoresMaxQty": false,
+      "m_NumberOfRunStatSlots": 0,
+      "m_sendsEvents": true,
+      "m_expands": false,
+      "m_CachedValidItemIds": []
+    },
+    "BuffContainer": [],
+    "TokenContainer": [],
+    "DotContainer": [],
+    "QuirkContainer": [
+      {
+        "m_Definition": "quirk_quickdraw_pos",
+        "m_LockedTeamPosition": -1,
+        "m_DurationAmountRemaining": 0,
+        "m_IsNoDurationComplete": false,
+        "m_ShouldRemoveOverride": false,
+        "m_RemoveAnyConditions": null,
+        "m_RemoveAllConditions": null,
+        "m_SourceType": "quirk",
+        "m_SourceId": null,
+        "m_SourceActorGuid": 0,
+        "m_addGroup": 1,
+        "m_locked": false,
+        "m_new": false
+      },
+      {
+        "m_Definition": "quirk_nervous_neg",
+        "m_LockedTeamPosition": -1,
+        "m_DurationAmountRemaining": 0,
+        "m_IsNoDurationComplete": false,
+        "m_ShouldRemoveOverride": false,
+        "m_RemoveAnyConditions": null,
+        "m_RemoveAllConditions": null,
+        "m_SourceType": "quirk",
+        "m_SourceId": null,
+        "m_SourceActorGuid": 0,
+        "m_addGroup": 1,
+        "m_locked": false,
+        "m_new": false
+      }
+    ],
+    "actor_path": "wanderer"
+  },
+  "ActorGUID12": {
+    "m_ActorGuid": 12,
+    "m_ActorSkinId": null,
+    "m_ActorWeaponKitId": null,
+    "m_ActorPaletteId": null,
+    "m_ActorDataIds": [
+      "highwayman"
+    ],
+    "m_CurrentActorLoadoutGuid": 0,
+    "m_CompletedRunGoalIds": [],
+    "m_RunGoalDefinition": "t_visit_hospital",
+    "m_UnlockContainer": {
+      "m_Unlocks": [],
+      "m_UnlockTrackSpentProfileValues": []
+    },
+    "m_ItemTagUseHistory": [],
+    "m_ItemUseHistory": [],
+    "m_SkillReceivedHistory": [],
+    "m_SkillUseHistory": [],
+    "m_CombatSkills": [
+      {
+        "m_SkillId": "hwm_wicked_slice",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 1,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "hwm_pistol_shot",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 2,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "hwm_duelists_advance",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 3,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "hwm_tracking_shot",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 4,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "hwm_take_aim",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 5,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "hwm_move",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": true,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "pass_heal",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": true,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "pass_stress",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": true,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "hwm_point_blank_shot",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "hwm_grapeshot_blast",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "hwm_open_vein",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "hwm_double_tap",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "hwm_highway_robbery",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "hwm_double_cross",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      }
+    ],
+    "m_SkillCooldowns": [],
+    "m_CombatSkillReplacements": [],
+    "m_ActorCountInstances": [],
+    "m_CurrentBattleDeathblowCheckCount": 0,
+    "m_CurrentBattleTurnType": null,
+    "m_ActorName": "Dismas",
+    "m_IsInRun": true,
+    "m_IsHired": false,
+    "m_TeamPosition": -1,
+    "m_IsCaptured": false,
+    "m_IsSpawned": false,
+    "m_IsInParty": false,
+    "m_IsLiving": true,
+    "m_IsInInn": false,
+    "m_IsInBattle": false,
+    "m_FrontRank": -1,
+    "m_BattleStartTeamPosition": 0,
+    "m_BattleStartFrontRank": 0,
+    "m_RoundCount": 0,
+    "m_TurnCount": 0,
+    "m_Stress": 0.0,
+    "m_Hp": 35.0,
+    "combat_inventory": {
+      "m_acceptsOverflow": false,
+      "m_EquipItemSlotType": null,
+      "m_items": [
+        null
+      ],
+      "m_ignoresMaxQty": false,
+      "m_NumberOfRunStatSlots": 0,
+      "m_sendsEvents": true,
+      "m_expands": false,
+      "m_CachedValidItemIds": []
+    },
+    "trinket_inventory": {
+      "m_acceptsOverflow": false,
+      "m_EquipItemSlotType": null,
+      "m_items": [
+        null,
+        null
+      ],
+      "m_ignoresMaxQty": false,
+      "m_NumberOfRunStatSlots": 0,
+      "m_sendsEvents": true,
+      "m_expands": false,
+      "m_CachedValidItemIds": []
+    },
+    "memory_inventory": {
+      "m_acceptsOverflow": false,
+      "m_EquipItemSlotType": null,
+      "m_items": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "m_ignoresMaxQty": false,
+      "m_NumberOfRunStatSlots": 0,
+      "m_sendsEvents": true,
+      "m_expands": false,
+      "m_CachedValidItemIds": []
+    },
+    "BuffContainer": [],
+    "TokenContainer": [],
+    "DotContainer": [],
+    "QuirkContainer": [
+      {
+        "m_Definition": "quirk_heavy_handed_pos",
+        "m_LockedTeamPosition": -1,
+        "m_DurationAmountRemaining": 0,
+        "m_IsNoDurationComplete": false,
+        "m_ShouldRemoveOverride": false,
+        "m_RemoveAnyConditions": null,
+        "m_RemoveAllConditions": null,
+        "m_SourceType": "quirk",
+        "m_SourceId": null,
+        "m_SourceActorGuid": 0,
+        "m_addGroup": 1,
+        "m_locked": false,
+        "m_new": false
+      },
+      {
+        "m_Definition": "quirk_pyrophobia_neg",
+        "m_LockedTeamPosition": -1,
+        "m_DurationAmountRemaining": 0,
+        "m_IsNoDurationComplete": false,
+        "m_ShouldRemoveOverride": false,
+        "m_RemoveAnyConditions": null,
+        "m_RemoveAllConditions": null,
+        "m_SourceType": "quirk",
+        "m_SourceId": null,
+        "m_SourceActorGuid": 0,
+        "m_addGroup": 1,
+        "m_locked": false,
+        "m_new": false
+      }
+    ],
+    "actor_path": "hwy_wanderer"
+  },
+  "ActorGUID13": {
+    "m_ActorGuid": 13,
+    "m_ActorSkinId": null,
+    "m_ActorWeaponKitId": null,
+    "m_ActorPaletteId": null,
+    "m_ActorDataIds": [
+      "man_at_arms"
+    ],
+    "m_CurrentActorLoadoutGuid": 0,
+    "m_CompletedRunGoalIds": [],
+    "m_RunGoalDefinition": "t_visit_watchtower",
+    "m_UnlockContainer": {
+      "m_Unlocks": [],
+      "m_UnlockTrackSpentProfileValues": []
+    },
+    "m_ItemTagUseHistory": [],
+    "m_ItemUseHistory": [],
+    "m_SkillReceivedHistory": [],
+    "m_SkillUseHistory": [],
+    "m_CombatSkills": [
+      {
+        "m_SkillId": "maa_crush",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 1,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "maa_rampart",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 2,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "maa_defender",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 3,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "maa_bolster",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 4,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "maa_hold_the_line",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 5,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "maa_move",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": true,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "pass_heal",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": true,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "pass_stress",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": true,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "maa_bellow",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "maa_retribution",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "maa_command",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "maa_stand_fast",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "maa_courageous_abandon",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "maa_strategic_withdrawal",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      }
+    ],
+    "m_SkillCooldowns": [],
+    "m_CombatSkillReplacements": [],
+    "m_ActorCountInstances": [],
+    "m_CurrentBattleDeathblowCheckCount": 0,
+    "m_CurrentBattleTurnType": null,
+    "m_ActorName": "Barristan",
+    "m_IsInRun": true,
+    "m_IsHired": false,
+    "m_TeamPosition": -1,
+    "m_IsCaptured": false,
+    "m_IsSpawned": false,
+    "m_IsInParty": false,
+    "m_IsLiving": true,
+    "m_IsInInn": false,
+    "m_IsInBattle": false,
+    "m_FrontRank": -1,
+    "m_BattleStartTeamPosition": 0,
+    "m_BattleStartFrontRank": 0,
+    "m_RoundCount": 0,
+    "m_TurnCount": 0,
+    "m_Stress": 0.0,
+    "m_Hp": 42.0,
+    "combat_inventory": {
+      "m_acceptsOverflow": false,
+      "m_EquipItemSlotType": null,
+      "m_items": [
+        null
+      ],
+      "m_ignoresMaxQty": false,
+      "m_NumberOfRunStatSlots": 0,
+      "m_sendsEvents": true,
+      "m_expands": false,
+      "m_CachedValidItemIds": []
+    },
+    "trinket_inventory": {
+      "m_acceptsOverflow": false,
+      "m_EquipItemSlotType": null,
+      "m_items": [
+        null,
+        null
+      ],
+      "m_ignoresMaxQty": false,
+      "m_NumberOfRunStatSlots": 0,
+      "m_sendsEvents": true,
+      "m_expands": false,
+      "m_CachedValidItemIds": []
+    },
+    "memory_inventory": {
+      "m_acceptsOverflow": false,
+      "m_EquipItemSlotType": null,
+      "m_items": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "m_ignoresMaxQty": false,
+      "m_NumberOfRunStatSlots": 0,
+      "m_sendsEvents": true,
+      "m_expands": false,
+      "m_CachedValidItemIds": []
+    },
+    "BuffContainer": [],
+    "TokenContainer": [],
+    "DotContainer": [],
+    "QuirkContainer": [
+      {
+        "m_Definition": "quirk_forest_tactician_pos",
+        "m_LockedTeamPosition": -1,
+        "m_DurationAmountRemaining": 0,
+        "m_IsNoDurationComplete": false,
+        "m_ShouldRemoveOverride": false,
+        "m_RemoveAnyConditions": null,
+        "m_RemoveAllConditions": null,
+        "m_SourceType": "quirk",
+        "m_SourceId": null,
+        "m_SourceActorGuid": 0,
+        "m_addGroup": 1,
+        "m_locked": false,
+        "m_new": false
+      },
+      {
+        "m_Definition": "quirk_cowardice_neg",
+        "m_LockedTeamPosition": -1,
+        "m_DurationAmountRemaining": 0,
+        "m_IsNoDurationComplete": false,
+        "m_ShouldRemoveOverride": false,
+        "m_RemoveAnyConditions": null,
+        "m_RemoveAllConditions": null,
+        "m_SourceType": "quirk",
+        "m_SourceId": null,
+        "m_SourceActorGuid": 0,
+        "m_addGroup": 1,
+        "m_locked": false,
+        "m_new": false
+      }
+    ],
+    "actor_path": "wanderer"
+  },
+  "ActorGUID14": {
+    "m_ActorGuid": 14,
+    "m_ActorSkinId": null,
+    "m_ActorWeaponKitId": null,
+    "m_ActorPaletteId": null,
+    "m_ActorDataIds": [
+      "plague_doctor"
+    ],
+    "m_CurrentActorLoadoutGuid": 0,
+    "m_CompletedRunGoalIds": [],
+    "m_RunGoalDefinition": "t_item_use_torch_consumable",
+    "m_UnlockContainer": {
+      "m_Unlocks": [],
+      "m_UnlockTrackSpentProfileValues": []
+    },
+    "m_ItemTagUseHistory": [],
+    "m_ItemUseHistory": [],
+    "m_SkillReceivedHistory": [],
+    "m_SkillUseHistory": [],
+    "m_CombatSkills": [
+      {
+        "m_SkillId": "pd_noxious_blast",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 1,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "pd_blinding_gas",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 2,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "pd_incision",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 3,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "pd_battlefield_medicine",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 4,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "pd_ounce_of_prevention",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 5,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "pd_move",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": true,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "pass_heal",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": true,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "pass_stress",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": true,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "pd_plague_grenade",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "pd_emboldening_vapours",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "pd_disorienting_blast",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "pd_indiscriminate_science",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "pd_cause_of_death",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "pd_magnesium_rain",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      }
+    ],
+    "m_SkillCooldowns": [],
+    "m_CombatSkillReplacements": [],
+    "m_ActorCountInstances": [],
+    "m_CurrentBattleDeathblowCheckCount": 0,
+    "m_CurrentBattleTurnType": null,
+    "m_ActorName": "Paracelsus",
+    "m_IsInRun": true,
+    "m_IsHired": false,
+    "m_TeamPosition": -1,
+    "m_IsCaptured": false,
+    "m_IsSpawned": false,
+    "m_IsInParty": false,
+    "m_IsLiving": true,
+    "m_IsInInn": false,
+    "m_IsInBattle": false,
+    "m_FrontRank": -1,
+    "m_BattleStartTeamPosition": 0,
+    "m_BattleStartFrontRank": 0,
+    "m_RoundCount": 0,
+    "m_TurnCount": 0,
+    "m_Stress": 0.0,
+    "m_Hp": 28.0,
+    "combat_inventory": {
+      "m_acceptsOverflow": false,
+      "m_EquipItemSlotType": null,
+      "m_items": [
+        null
+      ],
+      "m_ignoresMaxQty": false,
+      "m_NumberOfRunStatSlots": 0,
+      "m_sendsEvents": true,
+      "m_expands": false,
+      "m_CachedValidItemIds": []
+    },
+    "trinket_inventory": {
+      "m_acceptsOverflow": false,
+      "m_EquipItemSlotType": null,
+      "m_items": [
+        null,
+        null
+      ],
+      "m_ignoresMaxQty": false,
+      "m_NumberOfRunStatSlots": 0,
+      "m_sendsEvents": true,
+      "m_expands": false,
+      "m_CachedValidItemIds": []
+    },
+    "memory_inventory": {
+      "m_acceptsOverflow": false,
+      "m_EquipItemSlotType": null,
+      "m_items": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "m_ignoresMaxQty": false,
+      "m_NumberOfRunStatSlots": 0,
+      "m_sendsEvents": true,
+      "m_expands": false,
+      "m_CachedValidItemIds": []
+    },
+    "BuffContainer": [],
+    "TokenContainer": [],
+    "DotContainer": [],
+    "QuirkContainer": [
+      {
+        "m_Definition": "quirk_hatred_of_gaunt_pos",
+        "m_LockedTeamPosition": -1,
+        "m_DurationAmountRemaining": 0,
+        "m_IsNoDurationComplete": false,
+        "m_ShouldRemoveOverride": false,
+        "m_RemoveAnyConditions": null,
+        "m_RemoveAllConditions": null,
+        "m_SourceType": "quirk",
+        "m_SourceId": null,
+        "m_SourceActorGuid": 0,
+        "m_addGroup": 1,
+        "m_locked": false,
+        "m_new": false
+      },
+      {
+        "m_Definition": "quirk_neat_freak_neg",
+        "m_LockedTeamPosition": -1,
+        "m_DurationAmountRemaining": 0,
+        "m_IsNoDurationComplete": false,
+        "m_ShouldRemoveOverride": false,
+        "m_RemoveAnyConditions": null,
+        "m_RemoveAllConditions": null,
+        "m_SourceType": "quirk",
+        "m_SourceId": null,
+        "m_SourceActorGuid": 0,
+        "m_addGroup": 1,
+        "m_locked": false,
+        "m_new": false
+      }
+    ],
+    "actor_path": "wanderer"
+  },
+  "ActorGUID15": {
+    "m_ActorGuid": 15,
+    "m_ActorSkinId": null,
+    "m_ActorWeaponKitId": null,
+    "m_ActorPaletteId": null,
+    "m_ActorDataIds": [
+      "duelist"
+    ],
+    "m_CurrentActorLoadoutGuid": 0,
+    "m_CompletedRunGoalIds": [],
+    "m_RunGoalDefinition": "t_visit_city",
+    "m_UnlockContainer": {
+      "m_Unlocks": [],
+      "m_UnlockTrackSpentProfileValues": []
+    },
+    "m_ItemTagUseHistory": [],
+    "m_ItemUseHistory": [],
+    "m_SkillReceivedHistory": [],
+    "m_SkillUseHistory": [],
+    "m_CombatSkills": [
+      {
+        "m_SkillId": "dul_thrust",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 1,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "dul_feint",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 2,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "dul_disengage",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 3,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "dul_flick",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 4,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "dul_preparation",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 5,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "dul_move",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": true,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "pass_heal",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": true,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "pass_stress",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": true,
+        "m_IsUnlocked": true,
+        "m_IsEquipped": true,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "dul_the_boot",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "dul_again",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "dul_fleche",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "dul_meditation",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "dul_pistol",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      },
+      {
+        "m_SkillId": "dul_ruthless_instruction",
+        "m_SourceType": "class",
+        "m_IsAlwaysEquipped": false,
+        "m_IsUnlocked": false,
+        "m_IsEquipped": false,
+        "m_EquippedOrder": 0,
+        "m_SkillModifier": null
+      }
+    ],
+    "m_SkillCooldowns": [],
+    "m_CombatSkillReplacements": [],
+    "m_ActorCountInstances": [],
+    "m_CurrentBattleDeathblowCheckCount": 0,
+    "m_CurrentBattleTurnType": null,
+    "m_ActorName": "Sahar",
+    "m_IsInRun": true,
+    "m_IsHired": false,
+    "m_TeamPosition": -1,
+    "m_IsCaptured": false,
+    "m_IsSpawned": false,
+    "m_IsInParty": false,
+    "m_IsLiving": true,
+    "m_IsInInn": false,
+    "m_IsInBattle": false,
+    "m_FrontRank": -1,
+    "m_BattleStartTeamPosition": 0,
+    "m_BattleStartFrontRank": 0,
+    "m_RoundCount": 0,
+    "m_TurnCount": 0,
+    "m_Stress": 0.0,
+    "m_Hp": 28.0,
+    "combat_inventory": {
+      "m_acceptsOverflow": false,
+      "m_EquipItemSlotType": null,
+      "m_items": [
+        null
+      ],
+      "m_ignoresMaxQty": false,
+      "m_NumberOfRunStatSlots": 0,
+      "m_sendsEvents": true,
+      "m_expands": false,
+      "m_CachedValidItemIds": []
+    },
+    "trinket_inventory": {
+      "m_acceptsOverflow": false,
+      "m_EquipItemSlotType": null,
+      "m_items": [
+        null,
+        null
+      ],
+      "m_ignoresMaxQty": false,
+      "m_NumberOfRunStatSlots": 0,
+      "m_sendsEvents": true,
+      "m_expands": false,
+      "m_CachedValidItemIds": []
+    },
+    "memory_inventory": {
+      "m_acceptsOverflow": false,
+      "m_EquipItemSlotType": null,
+      "m_items": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "m_ignoresMaxQty": false,
+      "m_NumberOfRunStatSlots": 0,
+      "m_sendsEvents": true,
+      "m_expands": false,
+      "m_CachedValidItemIds": []
+    },
+    "BuffContainer": [],
+    "TokenContainer": [],
+    "DotContainer": [],
+    "QuirkContainer": [
+      {
+        "m_Definition": "quirk_slayer_of_gaunts_pos",
+        "m_LockedTeamPosition": -1,
+        "m_DurationAmountRemaining": 0,
+        "m_IsNoDurationComplete": false,
+        "m_ShouldRemoveOverride": false,
+        "m_RemoveAnyConditions": null,
+        "m_RemoveAllConditions": null,
+        "m_SourceType": "quirk",
+        "m_SourceId": null,
+        "m_SourceActorGuid": 0,
+        "m_addGroup": 1,
+        "m_locked": false,
+        "m_new": false
+      },
+      {
+        "m_Definition": "quirk_hydrophobe_neg",
+        "m_LockedTeamPosition": -1,
+        "m_DurationAmountRemaining": 0,
+        "m_IsNoDurationComplete": false,
+        "m_ShouldRemoveOverride": false,
+        "m_RemoveAnyConditions": null,
+        "m_RemoveAllConditions": null,
+        "m_SourceType": "quirk",
+        "m_SourceId": null,
+        "m_SourceActorGuid": 0,
+        "m_addGroup": 1,
+        "m_locked": false,
+        "m_new": false
+      }
+    ],
+    "actor_path": "dul_wanderer"
+  }
+}

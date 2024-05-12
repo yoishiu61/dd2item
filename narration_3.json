@@ -1,0 +1,261 @@
+{
+  "m_CompletedValleyBarricadeCount": 2,
+  "m_CanPlayBiomeHalfwayNarration": false,
+  "m_PlayedNarrations": [
+    {
+      "m_entryId": "arrive_boss_select_02",
+      "m_occurrences": [
+        {
+          "m_occurrenceType": "profile",
+          "m_count": 1
+        }
+      ]
+    },
+    {
+      "m_entryId": "arrive_hero_select_01",
+      "m_occurrences": [
+        {
+          "m_occurrenceType": "profile",
+          "m_count": 2
+        },
+        {
+          "m_occurrenceType": "run",
+          "m_count": 1
+        },
+        {
+          "m_occurrenceType": "biome",
+          "m_count": 1
+        }
+      ]
+    },
+    {
+      "m_entryId": "arrive_hero_select_05",
+      "m_occurrences": [
+        {
+          "m_occurrenceType": "profile",
+          "m_count": 2
+        }
+      ]
+    },
+    {
+      "m_entryId": "recruit_hero_maa_01",
+      "m_occurrences": [
+        {
+          "m_occurrenceType": "profile",
+          "m_count": 1
+        }
+      ]
+    },
+    {
+      "m_entryId": "biome_start_valley_04",
+      "m_occurrences": [
+        {
+          "m_occurrenceType": "profile",
+          "m_count": 1
+        }
+      ]
+    },
+    {
+      "m_entryId": "arrive_valley_barricade_02",
+      "m_occurrences": [
+        {
+          "m_occurrenceType": "profile",
+          "m_count": 1
+        }
+      ]
+    },
+    {
+      "m_entryId": "combat_victory_05",
+      "m_occurrences": [
+        {
+          "m_occurrenceType": "profile",
+          "m_count": 1
+        }
+      ]
+    },
+    {
+      "m_entryId": "return_from_combat_valley_01",
+      "m_occurrences": [
+        {
+          "m_occurrenceType": "profile",
+          "m_count": 1
+        }
+      ]
+    },
+    {
+      "m_entryId": "loot_open_trinket_rare_01",
+      "m_occurrences": [
+        {
+          "m_occurrenceType": "profile",
+          "m_count": 1
+        }
+      ]
+    },
+    {
+      "m_entryId": "arrive_valley_bridge_01",
+      "m_occurrences": [
+        {
+          "m_occurrenceType": "profile",
+          "m_count": 1
+        }
+      ]
+    },
+    {
+      "m_entryId": "arrive_valley_barricade_01",
+      "m_occurrences": [
+        {
+          "m_occurrenceType": "profile",
+          "m_count": 1
+        }
+      ]
+    },
+    {
+      "m_entryId": "hero_hurt_big_01",
+      "m_occurrences": [
+        {
+          "m_occurrenceType": "profile",
+          "m_count": 1
+        }
+      ]
+    },
+    {
+      "m_entryId": "monster_dot_03",
+      "m_occurrences": [
+        {
+          "m_occurrenceType": "profile",
+          "m_count": 1
+        }
+      ]
+    },
+    {
+      "m_entryId": "monster_dot_01",
+      "m_occurrences": [
+        {
+          "m_occurrenceType": "profile",
+          "m_count": 1
+        }
+      ]
+    },
+    {
+      "m_entryId": "combat_victory_04",
+      "m_occurrences": [
+        {
+          "m_occurrenceType": "profile",
+          "m_count": 1
+        }
+      ]
+    },
+    {
+      "m_entryId": "return_from_combat_valley_02",
+      "m_occurrences": [
+        {
+          "m_occurrenceType": "profile",
+          "m_count": 1
+        }
+      ]
+    },
+    {
+      "m_entryId": "inn_travelogue_08",
+      "m_occurrences": [
+        {
+          "m_occurrenceType": "profile",
+          "m_count": 1
+        }
+      ]
+    },
+    {
+      "m_entryId": "run_end_failure_01",
+      "m_occurrences": [
+        {
+          "m_occurrenceType": "profile",
+          "m_count": 1
+        },
+        {
+          "m_occurrenceType": "run",
+          "m_count": 1
+        },
+        {
+          "m_occurrenceType": "biome",
+          "m_count": 1
+        }
+      ]
+    },
+    {
+      "m_entryId": "post_run_results_10",
+      "m_occurrences": [
+        {
+          "m_occurrenceType": "profile",
+          "m_count": 1
+        },
+        {
+          "m_occurrenceType": "run",
+          "m_count": 1
+        },
+        {
+          "m_occurrenceType": "biome",
+          "m_count": 1
+        }
+      ]
+    },
+    {
+      "m_entryId": "altar_of_hope_open_item_01",
+      "m_occurrences": [
+        {
+          "m_occurrenceType": "profile",
+          "m_count": 1
+        },
+        {
+          "m_occurrenceType": "run",
+          "m_count": 1
+        }
+      ]
+    },
+    {
+      "m_entryId": "altar_of_hope_buy_item_01",
+      "m_occurrences": [
+        {
+          "m_occurrenceType": "profile",
+          "m_count": 1
+        },
+        {
+          "m_occurrenceType": "run",
+          "m_count": 1
+        }
+      ]
+    },
+    {
+      "m_entryId": "arrive_boss_select_03",
+      "m_occurrences": [
+        {
+          "m_occurrenceType": "profile",
+          "m_count": 1
+        },
+        {
+          "m_occurrenceType": "run",
+          "m_count": 1
+        },
+        {
+          "m_occurrenceType": "biome",
+          "m_count": 1
+        }
+      ]
+    },
+    {
+      "m_entryId": "arrive_hero_select_03",
+      "m_occurrences": [
+        {
+          "m_occurrenceType": "profile",
+          "m_count": 1
+        },
+        {
+          "m_occurrenceType": "run",
+          "m_count": 1
+        },
+        {
+          "m_occurrenceType": "biome",
+          "m_count": 1
+        }
+      ]
+    }
+  ]
+}
