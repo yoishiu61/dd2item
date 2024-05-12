@@ -10,4 +10,4 @@ If there's a profile 3 already created for you:
 
 after that you should be fine. Just paste these files into your "profiles" folder. It's here:
 
-C:\Users\<User Name>\AppData\LocalLow\RedHook\Darkest Dungeon II\SaveFiles\<Numbers>\profiles
+C:\Users\-User Name-\AppData\LocalLow\RedHook\Darkest Dungeon II\SaveFiles\-Numbers-\profiles
