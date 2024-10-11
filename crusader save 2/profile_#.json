@@ -1,0 +1,235 @@
+{
+  "m_ProfileGuid": #,
+  "m_Name": "CHANGE THIS",
+  "m_ViewedIntroCinematic": true,
+  "m_ViewedOutroCinematic": false,
+  "m_ViewedActorPaths": [
+    "wanderer"
+  ],
+  "m_ViewedWeaponKits": [],
+  "m_ViewedHeroPalettes": [],
+  "m_ProfileSeedInstances": [
+    {
+      "m_Id": "grave_robber",
+      "m_GenerationSeed": 1603049101,
+      "m_GenerationCount": 1
+    },
+    {
+      "m_Id": "highwayman",
+      "m_GenerationSeed": 718121320,
+      "m_GenerationCount": 1
+    },
+    {
+      "m_Id": "man_at_arms",
+      "m_GenerationSeed": 2050717992,
+      "m_GenerationCount": 1
+    },
+    {
+      "m_Id": "plague_doctor",
+      "m_GenerationSeed": 1449201316,
+      "m_GenerationCount": 1
+    },
+    {
+      "m_Id": "crusader",
+      "m_GenerationSeed": 1835188763,
+      "m_GenerationCount": 1
+    },
+    {
+      "m_Id": "duelist",
+      "m_GenerationSeed": 715366454,
+      "m_GenerationCount": 1
+    }
+  ],
+  "m_UnlockContainer": {
+    "m_Unlocks": [
+      "crusader_quest"
+    ],
+    "m_UnlockTrackSpentProfileValues": [
+      [
+        "memory",
+        {
+          "m_Id": "memory",
+          "m_Values": []
+        }
+      ],
+      [
+        "stagecoach",
+        {
+          "m_Id": "stagecoach",
+          "m_Values": []
+        }
+      ],
+      [
+        "resources",
+        {
+          "m_Id": "resources",
+          "m_Values": []
+        }
+      ],
+      [
+        "pets",
+        {
+          "m_Id": "pets",
+          "m_Values": []
+        }
+      ],
+      [
+        "prestige",
+        {
+          "m_Id": "prestige",
+          "m_Values": []
+        }
+      ],
+      [
+        "infernal_flame",
+        {
+          "m_Id": "infernal_flame",
+          "m_Values": []
+        }
+      ],
+      [
+        "bounty_hunter",
+        {
+          "m_Id": "bounty_hunter",
+          "m_Values": []
+        }
+      ],
+      [
+        "flagellant",
+        {
+          "m_Id": "flagellant",
+          "m_Values": []
+        }
+      ],
+      [
+        "grave_robber",
+        {
+          "m_Id": "grave_robber",
+          "m_Values": []
+        }
+      ],
+      [
+        "hellion",
+        {
+          "m_Id": "hellion",
+          "m_Values": []
+        }
+      ],
+      [
+        "highwayman",
+        {
+          "m_Id": "highwayman",
+          "m_Values": []
+        }
+      ],
+      [
+        "jester",
+        {
+          "m_Id": "jester",
+          "m_Values": []
+        }
+      ],
+      [
+        "leper",
+        {
+          "m_Id": "leper",
+          "m_Values": []
+        }
+      ],
+      [
+        "man_at_arms",
+        {
+          "m_Id": "man_at_arms",
+          "m_Values": []
+        }
+      ],
+      [
+        "occultist",
+        {
+          "m_Id": "occultist",
+          "m_Values": []
+        }
+      ],
+      [
+        "plague_doctor",
+        {
+          "m_Id": "plague_doctor",
+          "m_Values": []
+        }
+      ],
+      [
+        "runaway",
+        {
+          "m_Id": "runaway",
+          "m_Values": []
+        }
+      ],
+      [
+        "vestal",
+        {
+          "m_Id": "vestal",
+          "m_Values": []
+        }
+      ],
+      [
+        "crusader",
+        {
+          "m_Id": "crusader",
+          "m_Values": []
+        }
+      ],
+      [
+        "duelist",
+        {
+          "m_Id": "duelist",
+          "m_Values": []
+        }
+      ]
+    ]
+  },
+  "m_QuestTracker": {
+    "m_QuestCompleteIds": [
+      "crusader_quest_start",
+      "crusader_stage_coach_mount_helmet_a",
+      "crusader_military_barricade_victory",
+      "crusader_inn_deliverable_unique_reliquary",
+      "crusader_stage_coach_mount_sanctified_scroll",
+      "crusader_assist_obtain_rumour_of_riches",
+      "crusader_inn_deliverable_blessed_blade",
+      "crusader_stage_coach_mount_helmet_b",
+      "crusader_warlord_victory",
+      "crusader"
+    ]
+  },
+  "m_LastStageCoachSkin": "wagon_skin_base",
+  "m_BossSelectCounts": [
+    [
+      "prologue",
+      1
+    ]
+  ],
+  "m_BossVictoryCounts": [],
+  "m_BossVictoryStageCoachFlameItemIds": [],
+  "m_ViewedBossVictoryStageCoachFlameItems": [],
+  "m_ToastBossVictoryStageCoachFlameItemIds": [],
+  "m_BossAcademicsHonorariumCounts": [],
+  "m_ProfileValues": {
+    "m_Id": null,
+    "m_Values": []
+  },
+  "m_HopeCollected": 0,
+  "m_RunEndStreakIsVictory": false,
+  "m_RunEndStreakAmount": 0,
+  "m_TotalDistanceDriven": 5.0,
+  "m_ActorDeaths": [],
+  "m_VisitedInns": [],
+  "m_PartyWipedRunBosses": [],
+  "m_RunVictoryEntries": [],
+  "m_UnlockedAchievements": [
+    "quest_complete_crusader"
+  ],
+  "m_ActiveDLCs": [
+    "dlc_dul_cru"
+  ],
+  "is_current": true
+}
